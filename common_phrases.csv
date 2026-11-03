@@ -1,0 +1,63 @@
+id,frase,traduccion,nivel,estado,puntaje
+1,Hello!,¡Hola!,basico,No practicada,0
+2,Good morning.,Buenos días.,basico,No practicada,0
+3,Good afternoon.,Buenas tardes.,basico,No practicada,0
+4,Good evening.,Buenas noches.,basico,No practicada,0
+5,How are you?,¿Cómo estás?,basico,No practicada,0
+6,I am fine.,Estoy bien.,basico,No practicada,0
+7,Thank you.,Gracias.,basico,No practicada,0
+8,You're welcome.,De nada.,basico,No practicada,0
+9,Excuse me.,Disculpe.,basico,No practicada,0
+10,I'm sorry.,Lo siento.,basico,No practicada,0
+11,What's your name?,¿Cómo te llamas?,basico,No practicada,0
+12,My name is John.,Me llamo John.,basico,No practicada,0
+13,Nice to meet you.,Mucho gusto.,basico,No practicada,0
+14,See you later.,Nos vemos luego.,basico,No practicada,0
+15,Have a nice day.,Que tengas un buen día.,basico,No practicada,0
+16,I don't understand.,No entiendo.,basico,No practicada,0
+17,Can you help me?,¿Puedes ayudarme?,basico,No practicada,0
+18,Where is the bathroom?,¿Dónde está el baño?,basico,No practicada,0
+19,How much is it?,¿Cuánto cuesta?,basico,No practicada,0
+20,I like it.,Me gusta.,basico,No practicada,0
+
+21,Could you repeat that please?,¿Podrías repetir eso por favor?,intermedio,No practicada,0
+22,What do you mean?,¿Qué quieres decir?,intermedio,No practicada,0
+23,I'm looking for a job.,Estoy buscando trabajo.,intermedio,No practicada,0
+24,I have an appointment.,Tengo una cita.,intermedio,No practicada,0
+25,Can I pay by card?,¿Puedo pagar con tarjeta?,intermedio,No practicada,0
+26,How long does it take?,¿Cuánto tiempo toma?,intermedio,No practicada,0
+27,I'll think about it.,Lo pensaré.,intermedio,No practicada,0
+28,That sounds great.,Eso suena genial.,intermedio,No practicada,0
+29,I'm running late.,Voy tarde.,intermedio,No practicada,0
+30,What's going on?,¿Qué está pasando?,intermedio,No practicada,0
+31,I agree with you.,Estoy de acuerdo contigo.,intermedio,No practicada,0
+32,I don't think so.,No lo creo.,intermedio,No practicada,0
+33,It depends.,Depende.,intermedio,No practicada,0
+34,Let's get started.,Empecemos.,intermedio,No practicada,0
+35,I'm not sure about that.,No estoy seguro de eso.,intermedio,No practicada,0
+36,Could you speak slower?,¿Podrías hablar más despacio?,intermedio,No practicada,0
+37,I have no idea.,No tengo idea.,intermedio,No practicada,0
+38,What happened?,¿Qué pasó?,intermedio,No practicada,0
+39,That's interesting.,Eso es interesante.,intermedio,No practicada,0
+40,I completely forgot.,Lo olvidé completamente.,intermedio,No practicada,0
+
+41,As far as I know.,Hasta donde sé.,avanzado,No practicada,0
+42,To be honest with you.,Para ser honesto contigo.,avanzado,No practicada,0
+43,It's worth considering.,Vale la pena considerarlo.,avanzado,No practicada,0
+44,I couldn't agree more.,No podría estar más de acuerdo.,avanzado,No practicada,0
+45,That's not necessarily true.,Eso no es necesariamente cierto.,avanzado,No practicada,0
+46,It doesn't make sense.,No tiene sentido.,avanzado,No practicada,0
+47,I have mixed feelings about it.,Tengo sentimientos encontrados al respecto.,avanzado,No practicada,0
+48,Let's keep in touch.,Mantengámonos en contacto.,avanzado,No practicada,0
+49,I'm looking forward to it.,Lo espero con ganas.,avanzado,No practicada,0
+50,At the end of the day.,Al final del día.,avanzado,No practicada,0
+51,It caught me by surprise.,Me tomó por sorpresa.,avanzado,No practicada,0
+52,I see your point.,Entiendo tu punto.,avanzado,No practicada,0
+53,That's a good question.,Esa es una buena pregunta.,avanzado,No practicada,0
+54,I would rather stay home.,Preferiría quedarme en casa.,avanzado,No practicada,0
+55,There's no doubt about it.,No hay duda al respecto.,avanzado,No practicada,0
+56,It seems unlikely.,Parece poco probable.,avanzado,No practicada,0
+57,I appreciate your help.,Aprecio tu ayuda.,avanzado,No practicada,0
+58,Let's figure it out.,Vamos a resolverlo.,avanzado,No practicada,0
+59,I wasn't expecting that.,No esperaba eso.,avanzado,No practicada,0
+60,That's easier said than done.,Eso es más fácil decirlo que hacerlo.,avanzado,No practicada,0
